@@ -3,16 +3,31 @@
         "firstName": "Vaibhav",
         "lastName": "Varshney",
         "phoneNumber": "+91-9058954767",
-        "bio": "I am a Software Development Engineer with a strong hold on data structures and algorithms. Currently I am working at via.com. I Always on lookout for opportunities to utilize my skills and achieve personal and professional growth while being resourceful, innovative and dynamic in my work that leads to a learning experience.",
+        "bio": "Experienced Software Engineer with 6+ years of experience in Java-based backend development, microservice architecture, and high-availability systems. Skilled in designing scalable payment systems, developing REST APIs, and optimizing application performance. Proven ability to debug, monitor, and enhance systems in production environments with a strong foundation in computer science principles.",
         "email": "v.varshney97@gmail.com",
         "linkedin": "https://www.linkedin.com/in/vaibhavvarshney/",
         "github": "https://github.com/v-coder4u/"
     },
     "experience": [
         {
+            "position": "Senior Software Development Engineer",
+            "organization": "Via.com",
+            "aboutWork": "Designed and developed a hotel extranet portal, Designed and implemented a tool to optimize revenue for hotel bookings, Developed an interactive UI for B2B and corporate users, Integrated more than 4 travel partner APIs in our system (Agoda, Ratehawk, GetaRooms, BedsOnline)",
+            "fromDate": "December 2021",
+            "toDate": "Present"
+        },
+        {
+            "position": "Software Development Engineer",
+            "organization": "Paytm",
+            "aboutWork": "Collaborated with the IoT middleware team to design and build ads scheduling APIs for IoT devices such as soundbox. Integrated some AWS services to support ad playback on 20 million devices.",
+            "fromDate": "April 2021",
+            "toDate": "November 2021"
+
+        },
+        {
             "position": "Software Development Engineer",
             "organization": "Via.com",
-            "aboutWork": "I worked as a part of the Flight dev team, handling the Singapore division. Created Galileo api Searcher that will consists of all states for booking. Then Worked as a part of Hotel dev Team, handling all divisions including India and International (8 Countries). Integrated end to end flow of suppliers like Expedia, Cleartrip, tbo and Miki Api’s. Created various Via outbound hotels api’s for client booking. Created Hotel Analytics dashboard using Kafka.",
+            "aboutWork": "I worked as a part of the Singapore Flight dev team, handling the  and india division. Created Galileo api Searcher, Then Worked as a part of Hotel dev Team, handling all divisions including India and International (8 Countries). Integrated end to end flow of suppliers like Expedia, Cleartrip, tbo and Miki Api’s. Created various Via outbound hotels api’s for client booking. Created Hotel Analytics dashboard using Kafka, Collaborated with Google Hotel Finder (GHF) integration",
             "fromDate": "Oct 2018",
             "toDate": "Present"
         },
@@ -51,11 +66,11 @@
         }  
     ],
 
-    "skills": [ "Java", "J2EE", "Spring", "Hibernate", "Redis", "Aerospike", "Mysql", "Posgresql", "Kafka"   
+    "skills": [ "Java", "J2EE", "SpringBoot", "SpringMVC", "Hibernate", "JPA", "Redis", "Aerospike", "Mysql", "Posgresql", "Kafka", "HTML", "CSS", "JavaScript", "NodeJS", "Solr", "AWS"  
     ],
 
     "interests": {
-        "paragraphOne": "Apart from being a software developer, I enjoy most of my time being outdoors. I am passionate about photography and film making and aspire to start a YouTube channel of my own one day.",
+        "paragraphOne": "Apart from being a software developer, I enjoy most of my time being outdoors. I am passionate about photography and sports (Cricket, Table-tennis, Badminton, Basketball, Bollyball)",
         "paragraphTwo": "When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, and I spend a large amount of my free time exploring the latest technology advancements in the consumer tech field like new products and apps.."
     },
 
