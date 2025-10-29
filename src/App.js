@@ -45,7 +45,7 @@ class App extends Component {
               <h2 className="mb-5">Resume</h2>
             </div>
             <div className="embed-responsive embed-responsive-4by3">
-              <iframe className="embed-responsive-item" src="https://drive.google.com/file/d/1Bq1LENY5yD-7VVm_7h8ysi5IKnquA5at/view" title="Resume" allowfullscreen></iframe>
+              <iframe className="embed-responsive-item" src="https://drive.google.com/file/d/1Bq1LENY5yD-7VVm_7h8ysi5IKnquA5at/view?usp=drive_link" title="Resume" allowfullscreen></iframe>
             </div>
             </div>
             </section>
