@@ -19,7 +19,7 @@ class Skills extends Component {
                 <ul class="fa-ul mb-0">
                     <li>
                         <span class="fa-li"><FontAwesomeIcon icon={"plus"} color="#34994f"/></span>
-                        Java, J2EE, Spring, Hibernate, Kafka 
+                        Java, J2EE, SpringBoot, Hibernate, JPA, Servlet, JSP, Kafka, solr
                     </li>
                     <li>
                         <span class="fa-li"><FontAwesomeIcon icon={"plus"} color="#34994f"/></span>
@@ -33,6 +33,10 @@ class Skills extends Component {
                     <li>
                         <span class="fa-li"><FontAwesomeIcon icon={"plus"} color="#34994f"/></span>
                         Redis, Aerospike
+                    </li>
+                    <li>
+                        <span class="fa-li"><FontAwesomeIcon icon={"plus"} color="#34994f"/></span>
+                        AWS
                     </li>
                 </ul>
           
@@ -60,7 +64,7 @@ class Skills extends Component {
                 <ul class="fa-ul mb-0">
                     <li>
                         <span class="fa-li"><FontAwesomeIcon icon={faCheck} color="#34994f"/></span>
-                        Data Structures and Algorithms in Java
+                        Designed and implemented end-to-end workflow from HLD to LLD for a distributed hotel booking engine handling 1M+ daily requests
                     </li>
                     <li>
                         <span class="fa-li"><FontAwesomeIcon icon={faCheck} color="#34994f"/></span>
@@ -70,6 +74,11 @@ class Skills extends Component {
                     <li>
                         <span class="fa-li"><FontAwesomeIcon icon={faCheck} color="#34994f"/></span>
                         Agile Development & Scrum
+                    </li>
+
+                    <li>
+                        <span class="fa-li"><FontAwesomeIcon icon={faCheck} color="#34994f"/></span>
+                        Data Structures and Algorithms 
                     </li>
                 </ul>
             </div>
